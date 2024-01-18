@@ -1,6 +1,6 @@
-# Cite Extension for Python-Markdown v3
+# <cite> Extension for Python-Markdown v3
 
-Meant to replace the original [mdx_cite](https://github.com/aleray/mdx_cite) extension, which is not maintaine, nor compatible with python-markown v3+
+Dead-simple extension meant to replace the original [mdx_cite](https://github.com/aleray/mdx_cite) extension, which is not maintained, nor compatible with [python-markown](https://github.com/Python-Markdown/markdown) v3+
 
 ## Installation
 
