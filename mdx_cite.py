@@ -10,3 +10,5 @@ class CiteExtension(Extension):
         md.inlinePatterns.register(pattern, 'cite', 55)
 
 
+def makeExtension(*args, **kwargs):
+    return CiteExtension(*args, **kwargs)

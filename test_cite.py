@@ -4,7 +4,7 @@ from mdx_cite import CiteExtension
 
 
 def _mark_down(md_str):
-    return markdown.markdown(md_str, extensions=[CiteExtension()])
+    return markdown.markdown(md_str, extensions=['mdx_cite'])
 
 def test_no_citation():
     md = _mark_down('foo bar')
