@@ -13,6 +13,7 @@ setup(
     description="markdown extension for the <cite> tag",
     author="Noemi Millman",
     author_email="noemi@triopter.com",
+    url="https://github.com/triopter/mdx-3-cite",
     py_modules=["mdx_cite"],
     install_requires=[
         "markdown>=3.0"
